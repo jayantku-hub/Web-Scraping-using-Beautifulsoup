@@ -1,7 +1,5 @@
 # Web-Scraping-using-Beautifulsoup
 
-# Books.toscrape.com Web Scraper
-
 ## Project Purpose
 This project is a simple web scraper designed to extract book titles and their corresponding prices from the website [books.toscrape.com](https://books.toscrape.com/). The extracted data is then organized and saved into a CSV file for easy access and analysis.
 
